@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/.github.io/ex1/static/css/main.6b61ef48.chunk.css",
+    "main.js": "/.github.io/ex1/static/js/main.5560076d.chunk.js",
+    "main.js.map": "/.github.io/ex1/static/js/main.5560076d.chunk.js.map",
+    "runtime-main.js": "/.github.io/ex1/static/js/runtime-main.7b6eca01.js",
+    "runtime-main.js.map": "/.github.io/ex1/static/js/runtime-main.7b6eca01.js.map",
+    "static/js/2.f5df116d.chunk.js": "/.github.io/ex1/static/js/2.f5df116d.chunk.js",
+    "static/js/2.f5df116d.chunk.js.map": "/.github.io/ex1/static/js/2.f5df116d.chunk.js.map",
+    "index.html": "/.github.io/ex1/index.html",
+    "precache-manifest.f5d8840a6fae2467994065c15bd4abc3.js": "/.github.io/ex1/precache-manifest.f5d8840a6fae2467994065c15bd4abc3.js",
+    "service-worker.js": "/.github.io/ex1/service-worker.js",
+    "static/css/main.6b61ef48.chunk.css.map": "/.github.io/ex1/static/css/main.6b61ef48.chunk.css.map",
+    "static/js/2.f5df116d.chunk.js.LICENSE.txt": "/.github.io/ex1/static/js/2.f5df116d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/.github.io/ex1/static/media/vineyard.e78d3d05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6eca01.js",
+    "static/js/2.f5df116d.chunk.js",
+    "static/css/main.6b61ef48.chunk.css",
+    "static/js/main.5560076d.chunk.js"
+  ]
+}
